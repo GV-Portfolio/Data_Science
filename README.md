@@ -1,9 +1,8 @@
 # Data_Science
 Here I do programming and report writing to test my current data science skills.
 
----
 
-The Kaggle datasets are first imported via zip file and then used in my local computer.
+The following Kaggle datasets are first imported via zip file and then used on my local computer.
 
 ### Basic SQL 
 
