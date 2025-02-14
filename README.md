@@ -1,6 +1,10 @@
 # Data_Science
 Here I do programming and report writing to test my current data science skills.
 
+---
+
+The Kaggle datasets are first imported via zip file and then used in my local computer.
+
 ### Basic SQL 
 
 - Kaggle Dataset [BoardGameGeek| Games + Reviews as of Feb 2025](https://www.kaggle.com/datasets/bwandowando/boardgamegeek-board-games-reviews-jan-2025)
